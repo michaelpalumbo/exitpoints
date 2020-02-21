@@ -19,9 +19,7 @@ Rob Cruickshank (electronics)
 Kieran Maraj (poster artwork)
 Michael Palumbo (modular synth)
 
-[!Concer1Poster](/exitPoints-1_v2.jpg)
-
-## March 25:
+![poster1](/exitPoints-1_v2.jpg)## March 25:
 Claire Yunjin Lee (keys, synths, live-processing)
 Cayce Fischer (modular synth)
 Joel Ong (electric guitar)
